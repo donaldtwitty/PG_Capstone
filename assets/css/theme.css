@@ -160,7 +160,7 @@
   --fg-soft-dark: #e6e7e7;
   /* -------------------------------- Accordion ------------------------------- */
   --fg-accordion-button-active-color: var(--fg-1000);
-  --fg-accordion-button-active-bg: $white;
+  --fg-accordion-button-active-bg: white;
   /* ------------------------------ Reveal Button ----------------------------- */
   --fg-btn-reveal-color: dark;
   --fg-btn-reveal-bg: #e6e6e6;
